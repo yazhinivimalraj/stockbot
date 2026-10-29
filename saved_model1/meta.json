@@ -1,0 +1,25 @@
+{
+  "features": [
+    "ret_1",
+    "ret_5",
+    "ret_10",
+    "range_pct",
+    "body_pct",
+    "close_to_sma5",
+    "close_to_sma20",
+    "vol_chg",
+    "volatility_10"
+  ],
+  "test_accuracy": 0.5085247575293517,
+  "baseline": 0.5153649821337417,
+  "symbols": [
+    "ALUMINIUM",
+    "COPPER",
+    "CRUDE OIL",
+    "GOLD",
+    "NATURAL GAS",
+    "PALLADIUM",
+    "PLATINUM",
+    "SILVER"
+  ]
+}
